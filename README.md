@@ -65,7 +65,7 @@ Métricas sobre el conjunto de test (2.000 clientes), tomando la clase "abandona
 ├── data/
 │   └── Customer-Churn-Records.csv   # Dataset
 ├── docs/
-│   └── memoria_tfm.pdf              # Memoria del TFM
+│   └── TFM_Neco_Ruiz_Crisostomo.pdf              # Memoria del TFM
 ├── requirements.txt
 └── README.md
 ```
